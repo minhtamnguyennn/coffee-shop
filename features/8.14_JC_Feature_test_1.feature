@@ -1,5 +1,6 @@
 Feature:
-  <Some interesting description here>
+  Test Feature
 
   Scenario:
-    <Some interesting scenario steps here>
+    Given testing
+    When A do X
