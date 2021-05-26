@@ -1,4 +1,6 @@
 Feature: Testing table can have angle parameter of examples
+  
+  @candy; @sugar
 
     Scenario Outline: {outline}
         When a (table) step:
