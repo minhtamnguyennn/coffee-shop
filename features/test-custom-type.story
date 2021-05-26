@@ -1,4 +1,4 @@
-Feature: test-custom-type
+
 
     # The first example has two steps
   Scenario: Maker starts a game
