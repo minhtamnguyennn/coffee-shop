@@ -1,8 +1,7 @@
-
-
-    # The first example has two steps
-    
-    @feature
-  Scenario: Maker starts a game
-    When the Maker starts a game
-    Then the Maker waits for a Breaker to join 2 games
+Lifecycle:
+Before:
+Scope: STEP
+[steps to be executed before each scenario step]
+After:
+Scope: STEP
+[steps to be executed after each scenario step]
