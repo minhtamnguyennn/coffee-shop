@@ -5,3 +5,11 @@ Scope: STEP
 After:
 Scope: STEP
 [steps to be executed after each scenario step]
+
+Lifecycle:
+  Before:
+    Scope: abc
+      1
+      2
+      3
+    
