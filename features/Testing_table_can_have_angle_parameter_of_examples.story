@@ -1,6 +1,6 @@
 Feature: Testing table can have angle parameter of examples
 
-    Scenario Outline: outline
+    Scenario Outline: {outline}
         When a table step:
             | Day | Months   |
             | 30  | <Months> |
