@@ -3,7 +3,7 @@ Feature: Serve coffee
   Customers should be able to 
   buy coffee at all times
 
-  Scenario: Buy last coffee
+  Scenario: Buy the last coffee
     Given there are 1 coffees left in the machine
     And I have deposited 1$
     When I press the coffee button
