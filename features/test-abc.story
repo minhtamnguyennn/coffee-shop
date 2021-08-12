@@ -1,4 +1,4 @@
-Feature:
+Feature: Login
   <Some interesting description here>
 
   Scenario:
