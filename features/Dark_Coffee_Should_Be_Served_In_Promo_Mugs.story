@@ -9,4 +9,4 @@ Feature: Dark Coffee Should Be Served In Promo Mugs
     Given I want to go to market
     When I purchase a 'dark' coffee
     Then I expect to be served in a dark mug
-    And I expect a message 'coffees are not sold on Tuesdays'
+    And I expect a message 'coffees are not sold on Tuesdays', go home
