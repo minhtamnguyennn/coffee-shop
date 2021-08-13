@@ -19,7 +19,7 @@ Scope: STORY
 [steps to be executed after each story]
   
  
-  @store_hours
+  @store_hours @testing
   Scenario: The shop should be closed on Tuesday
     Given a menu order
     When the date is Tuesday
